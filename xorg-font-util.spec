@@ -1,7 +1,7 @@
 Summary:	Font utilities
 Name:		xorg-font-util
 Version:	1.3.0
-Release:	3
+Release:	4
 License:	BSD
 Group:		X11/Development/Tools
 Source0:	http://xorg.freedesktop.org/releases/individual/font/font-util-%{version}.tar.bz2
